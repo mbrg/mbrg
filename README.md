@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![twitter](https://img.shields.io/twitter/follow/mbrg0?icon=twitter&style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=mbrg0)
+[![email me](https://img.shields.io/badge/michael.bargury-owasp.org-red?logo=Gmail)](mailto:michael.bargury@owasp.org)
+
 I'm a security researcher and engineer passionate about all things related to cloud, SaaS and no-code security.
 
 Affiliations:
