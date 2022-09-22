@@ -7,7 +7,7 @@ I'm a security researcher and engineer passionate about all things related to cl
 
 Affiliations:
 
-- Co-founder and CTO at [Zenity](zenity.io), which provides security governance for low-code / no-code applications
+- Co-founder and CTO at [Zenity](https://www.zenity.io), which provides security governance for low-code / no-code applications
 - Project lead at [OWASP Top 10 Low-Code/No-Code Security Risks](https://owasp.org/www-project-top-10-low-code-no-code-security-risks/)
 - Columnist at [DarkReading](https://www.darkreading.com/author/michael-bargury)
 
