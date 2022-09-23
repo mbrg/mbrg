@@ -16,13 +16,4 @@ Currently working on:
 - [Powerful](https://github.com/mbrg/powerful) - install a backdoor on O365 Power Platform enabling creating, triggering and deleting any arbitrary automation
 - [ZapCreds](https://github.com/mbrg/zapcreds) - scan Zapier for shared credentials ready for exploit
 
-Talks:
-
-| Date | Conference | Talk |
-| - | - | - |
-| 2022-08-13 | DEFCON30 | [No-Code Malware: Windows 11 At Your Service](https://info.defcon.org/events/48560/) |
-| 2022-08-13 | DEFCON30 | [Low Code High Risk: Enterprise Domination via Low Code Abuse](https://info.defcon.org/events/48565/) |
-| 2022-08-31 | OWASP Global AppSec APAC 2022 | [Dominating the Enterprise via Low Code Abuse](https://globalappsecapac.events.whova.com/Agenda/2553624) |
-| 2022-09-01 | OWASP Global AppSec APAC 2022 | [No Code Risk: What Happens When We Leave No Code up for Grabs](https://globalappsecapac.events.whova.com/Agenda/2553625) |
-| 2022-09-22 | Besides Singapore 2022 | [ Malware Powered by Windows 11 No-Code](https://bsidessg.org/schedule/malware-powered-by-windows-11-no-code/) |
-
+Check out my [latest and upcoming talks](https://github.com/mbrg/talks), come and say hi!
