@@ -2,7 +2,7 @@
 
 [![twitter](https://img.shields.io/twitter/follow/mbrg0?icon=twitter&style=social&label=@mbrg0)](https://twitter.com/intent/follow?screen_name=mbrg0)
 
-I'm a hacker, builder and a cybersecurity practitioner. Spent the last decade breaking adapt cloud, no-code apps and recently GenAI apps.
+I'm a hacker, builder and a cybersecurity practitioner. Spent the last decade breaking adapt cloud, no-code apps and AI agents.
 
 Affiliations:
 
